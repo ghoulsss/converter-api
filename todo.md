@@ -1,7 +1,7 @@
 - [x] POST /pdf/merge — объединить несколько PDF
 - [x] POST /pdf/split — разделить по страницам
 - [] POST /pdf/to-pdf — конвертировать docx/png → pdf
-- [] POST /pdf/from-pdf — извлечь текст из PDF
+- [x] POST /pdf/from-pdf — извлечь текст из PDF
 - [] POST /pdf/compress — сжать PDF
 - [] POST /pdf/protect — поставить пароль
 - [] POST /pdf/unprotect — снять пароль
